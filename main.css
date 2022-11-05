@@ -105,7 +105,7 @@ body {
 }
 
 main {
-  background: url("../images/bg-intro-desktop.png") no-repeat var(--clr-bg) top left;
+  background: url("./images/bg-intro-desktop.png") no-repeat var(--clr-bg) top left;
   min-height: 100vh;
   padding: 7rem 0;
   display: grid;
@@ -325,7 +325,7 @@ main {
 
 @media (max-width: 60em) {
   main {
-    background: url("../images/bg-intro-mobile.png") var(--clr-bg) top right;
+    background: url("./images/bg-intro-mobile.png") var(--clr-bg) top right;
     padding: 10rem 0 7rem;
   }
   .signup {
