@@ -286,7 +286,7 @@ main {
   border: none;
   border-radius: 0.5rem;
   color: inherit;
-  background: var(--clr-submit-btn);
+  background-color: var(--clr-submit-btn);
   text-transform: uppercase;
   letter-spacing: 0.08rem;
   cursor: pointer;
